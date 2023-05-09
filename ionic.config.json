@@ -1,0 +1,7 @@
+{
+  "name": "stripe-ionic7-vue",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue-vite"
+}
