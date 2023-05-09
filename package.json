@@ -12,14 +12,17 @@
     "lint": "eslint"
   },
   "dependencies": {
+    "@capacitor-community/stripe": "^5.0.1",
     "@capacitor/app": "5.0.2",
     "@capacitor/core": "5.0.2",
     "@capacitor/haptics": "5.0.2",
+    "@capacitor/ios": "5.0.2",
     "@capacitor/keyboard": "5.0.2",
     "@capacitor/status-bar": "5.0.2",
     "@ionic/vue": "^7.0.0",
     "@ionic/vue-router": "^7.0.0",
     "ionicons": "^7.0.0",
+    "stripe": "^12.4.0",
     "vue": "^3.2.45",
     "vue-router": "^4.1.6"
   },
@@ -33,6 +36,7 @@
     "eslint": "^8.35.0",
     "eslint-plugin-vue": "^9.9.0",
     "jsdom": "^21.1.0",
+    "terser": "^5.17.3",
     "typescript": "^4.9.3",
     "vite": "^4.1.0",
     "vitest": "^0.29.2",
